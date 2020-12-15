@@ -1,1 +1,2 @@
 Correcion bug #1
+Corrección bug #2
